@@ -1,0 +1,7 @@
+C:\Users\Huong\source\repos\ChatApp\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Huong\source\repos\ChatApp\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Huong\source\repos\ChatApp\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Huong\source\repos\ChatApp\ConsoleApp1\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Huong\source\repos\ChatApp\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Huong\source\repos\ChatApp\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Huong\source\repos\ChatApp\ConsoleApp1\obj\Debug\Server.csprojResolveAssemblyReference.cache
